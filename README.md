@@ -1,1 +1,1 @@
-"# PapeleriaPOS" 
+# PapeleriaPOS
